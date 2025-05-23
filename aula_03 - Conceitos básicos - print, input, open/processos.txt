@@ -1,0 +1,17 @@
+Rendimentos líquidos
+R$3500 [Guga]
+R$4000 [Bruno]
+R$5128 [Daniel]
+Total => 12628
+
+Valores relativos:
+Guga [0.277]
+Bruno [0.316]
+Daniel [0.407]
+
+
+Divisão custos semanais (R$518):
+Guga R$518  0.277 => R$143,49
+Bruno R$518  0.316 => R$163.69
+Daniel R$518  0.407 => R$210,82 
+
