@@ -1,3 +1,4 @@
+#
 # Implemente uma classe Ponto2D que possui como atributos "x" e "y", e o
 # método "distancia" que recebe outro Ponto2D e retorna a distancia 
 # entre eles. 
@@ -14,7 +15,7 @@
 #   __le__(self, other)  [<=]
 #   __ge__(self, other)  [>=]
 #
-#
+
 
 
 
