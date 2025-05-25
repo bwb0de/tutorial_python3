@@ -18,6 +18,6 @@ def variancia():
 	pass
 
 	
-def desvio_padrao(l, n):
+def desvio_padrao():
 	pass
 
