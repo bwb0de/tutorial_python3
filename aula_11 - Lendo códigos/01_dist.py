@@ -1,3 +1,4 @@
+# Lendo arquivo com os números dos processos
 f = open('p.txt', 'r')
 lp = f.read().split()
 t = len(lp)
@@ -8,7 +9,8 @@ ldist = [
 	['Antônio'],
 	['Silvana']
 ]
-	
+
+
 for i, p in enumerate(lp):
 	dist_i = i % 3
 	ldist[dist_i].append(p)
