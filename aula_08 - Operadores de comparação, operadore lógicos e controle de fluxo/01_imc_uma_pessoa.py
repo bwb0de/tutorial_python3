@@ -20,5 +20,5 @@
 # 	- entre 35 e 39,99 => Obesidade II (severa)
 # 	- acima de 40 => Obesidade III (mórbida)
 #
-# Dica: utilizar afunção round indicando o número de casas decimais 2
+# Dica: utilizar a função round indicando o número de casas decimais 2
 
