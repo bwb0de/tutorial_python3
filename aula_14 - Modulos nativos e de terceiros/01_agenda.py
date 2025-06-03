@@ -1,5 +1,5 @@
 #
-# Crie um programa que funciona como uma agenda.
+# Crie um programa que funciona como uma agenda. Os dados de registro são data do evento, descrição e prioridade.
 #
 # O programa deve possuir um menu com opções:
 #   1 – registrar evento/compromisso
