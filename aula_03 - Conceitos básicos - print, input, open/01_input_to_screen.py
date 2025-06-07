@@ -3,4 +3,4 @@
 # mensagem na tela
 # 
 
-
+print(input("Digite algo: "))

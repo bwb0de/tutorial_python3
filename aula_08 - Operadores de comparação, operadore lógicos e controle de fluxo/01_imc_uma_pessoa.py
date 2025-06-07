@@ -22,3 +22,23 @@
 #
 # Dica: utilizar a função round indicando o número de casas decimais 2
 
+altura = float(input("Informe o valor da altura em metros: "))
+peso = float(input("Informe o valor do peso em kilogramas: "))
+
+imc = peso / (altura ** 2)
+imc = round(imc,2)
+
+if imc < 17.00: 
+    print("Muito abaixo do peso.")
+elif 17.00 <= imc <= 18.49: 
+    print("Abaixo do peso.")
+elif 18.50 <= imc <= 24.99: 
+    print("Peso normal.")
+elif 25.00 <= imc <= 29.99: 
+    print("Acima do peso.")
+elif 30.00 <= imc <= 34.99: 
+    print("Obesidade I.")
+elif 35.00 <= imc <= 39.99: 
+    print("Obesidade II (severa).")
+elif imc >= 40.00: 
+    print("Obesidade III (mórbida).")
