@@ -5,9 +5,9 @@
 #
 # Implemente os seguintes métodos mágicos (dunder):
 #
-#	__str__(self) => forma de apresentação quando enviado à função print()
-#	__len__(self) => como distância da origem quando enviado à função len()
-#	__add__(self, other) [+]
+#   __str__(self) => forma de apresentação quando enviado à função print()
+#   __len__(self) => como distância da origem quando enviado à função len()
+#   __add__(self, other) [+]
 #   __eq__(self, other)  [==]
 #   __ne__(self, other)  [!=]
 #   __lt__(self, other)  [<]
@@ -15,7 +15,5 @@
 #   __le__(self, other)  [<=]
 #   __ge__(self, other)  [>=]
 #
-
-
 
 
