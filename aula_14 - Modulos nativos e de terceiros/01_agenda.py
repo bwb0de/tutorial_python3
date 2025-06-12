@@ -10,4 +10,3 @@
 # Dica: use estruturas como dicionários e listas. Use o módulo json para persistir os dados a cada inclusão ou retirada
 #
 
-
