@@ -11,4 +11,20 @@
 # Dica: use o módulo random
 #
 
+import random
 
+numero_sorteado = random.randint(0,100)
+
+print("Adivinhe qual número foi sorteado entre 0-100:")
+while True:
+	tentativa = int(input('$:'))
+	if tentativa == numero_sorteado:
+		print("\nParabéns! Você acertou!\n")
+		break
+	elif tentativa < numero_sorteado:
+		print('\nVocê errou... O número é maior...\n')
+	elif tentativa > numero_sorteado:
+		print('\nVocê errou... O número é menor...\n')
+
+
+	
