@@ -3,4 +3,5 @@
 # mensagem na tela
 # 
 
-
+valor = input("Nome:")
+print(valor)
