@@ -16,5 +16,5 @@ tx_EUR  = 6.430 # euro
 
 print("O valor apresentado corresponde a:")
 print(f"- US$ {valor_reais / tx_USD}, dolares americanos")
-print(f"- US$ {valor_reais / tx_PARG}, pesos argentinos")
+print(f"- AR$ {valor_reais / tx_PARG}, pesos argentinos")
 print(f"- EU$ {valor_reais / tx_EUR}, euros")
