@@ -8,7 +8,7 @@
 # euro 6.430
 #
 
-valor_reais = float(input("Digiter um valor em R$: ").replace(",","."))
+valor_reais = float(input("Digiter um valor em R$: ").strip().replace(",","."))
 
 tx_USD  = 5.863 # dolar turismo
 tx_PARG = 0.005 # peso argentino
